@@ -1,3 +1,3 @@
 # demorepository
-This is my first repository add in the next line
+This is my first repository
 Author - Vaishnavi Shrivastava
